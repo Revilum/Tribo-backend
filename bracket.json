@@ -1,0 +1,452 @@
+{
+  "playoff": {
+    "quarterFinal": [
+      {
+        "firstTeam": {
+          "name": "Gambit",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+          "result": "not_played"
+        },
+        "secondTeam": {
+          "name": "Evil Geniuses",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26",
+          "result": "not_played"
+        }
+      },
+      {
+        "firstTeam": {
+          "name": "Vitality",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+          "result": "not_played"
+        },
+        "secondTeam": {
+          "name": "Virtus.pro",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+          "result": "not_played"
+        }
+      }
+    ],
+    "semiFinal": [
+      {
+        "firstTeam": {
+          "name": "G2",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+          "result": "not_played"
+        },
+        "secondTeam": {
+          "name": "TBD",
+          "score": 0,
+          "image": "TBD",
+          "result": "not_played"
+        }
+      },
+      {
+        "firstTeam": {
+          "name": "OG",
+          "score": 0,
+          "image": "https://img-cdn.hltv.org/teamlogo/7b6DouMNGWcqENDx1vw_Ot.png?ixlib=java-2.1.0&w=50&s=5ffc85bfbc0398d0a826590a790a08a6",
+          "result": "not_played"
+        },
+        "secondTeam": {
+          "name": "TBD",
+          "score": 0,
+          "image": "TBD",
+          "result": "not_played"
+        }
+      }
+    ],
+    "final": [
+      {
+        "firstTeam": {
+          "name": "TBD",
+          "score": 0,
+          "image": "TBD",
+          "result": "not_played"
+        },
+        "secondTeam": {
+          "name": "TBD",
+          "score": 0,
+          "image": "TBD",
+          "result": "not_played"
+        }
+      }
+    ]
+  },
+  "group_A": {
+    "upperBracket": {
+      "quarterFinal": [
+        {
+          "firstTeam": {
+            "name": "Gambit",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Sprout",
+            "score": 6,
+            "image": "https://img-cdn.hltv.org/teamlogo/Ut8iEF66VCIbZGniMYn5jL.svg?ixlib=java-2.1.0&s=e6ae4904320fcbb566d098641e22a474",
+            "result": "loser"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Vitality",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Complexity",
+            "score": 8,
+            "image": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459",
+            "result": "loser"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Astralis",
+            "score": 7,
+            "image": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "FunPlus Phoenix",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/Min7KyMY3tuB2xt-nPyM-O.svg?ixlib=java-2.1.0&s=b037f336aeb9b89b9b09d4a4671f9b61",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Extra Salt",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/qGJmW___da6KQjZWwhZOD6.png?ixlib=java-2.1.0&w=50&s=bf76dedd41cbd304b8633ebfa6cb70a8",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "G2",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "result": "winner"
+          }
+        }
+      ],
+      "semiFinal": [
+        {
+          "firstTeam": {
+            "name": "Gambit",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Vitality",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "FunPlus Phoenix",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/Min7KyMY3tuB2xt-nPyM-O.svg?ixlib=java-2.1.0&s=b037f336aeb9b89b9b09d4a4671f9b61",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "G2",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "result": "winner"
+          }
+        }
+      ],
+      "final": [
+        {
+          "firstTeam": {
+            "name": "Vitality",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "G2",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "result": "winner"
+          }
+        }
+      ]
+    },
+    "lowerBracket": {
+      "quarterFinal": [
+        {
+          "firstTeam": {
+            "name": "Sprout",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/Ut8iEF66VCIbZGniMYn5jL.svg?ixlib=java-2.1.0&s=e6ae4904320fcbb566d098641e22a474",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Complexity",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Astralis",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Extra Salt",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/qGJmW___da6KQjZWwhZOD6.png?ixlib=java-2.1.0&w=50&s=bf76dedd41cbd304b8633ebfa6cb70a8",
+            "result": "loser"
+          }
+        }
+      ],
+      "semiFinal": [
+        {
+          "firstTeam": {
+            "name": "FunPlus Phoenix",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/Min7KyMY3tuB2xt-nPyM-O.svg?ixlib=java-2.1.0&s=b037f336aeb9b89b9b09d4a4671f9b61",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Complexity",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Gambit",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Astralis",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "result": "loser"
+          }
+        }
+      ],
+      "final": [
+        {
+          "firstTeam": {
+            "name": "Complexity",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Gambit",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "result": "winner"
+          }
+        }
+      ]
+    }
+  },
+  "group_B": {
+    "upperBracket": {
+      "quarterFinal": [
+        {
+          "firstTeam": {
+            "name": "Heroic",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/ffSPDr5mbWSKI4yruyfVtx.svg?ixlib=java-2.1.0&s=2b0a91cf4a31e6eec7a5928b10465f32",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Imperial",
+            "score": 8,
+            "image": "https://img-cdn.hltv.org/teamlogo/iObWbBmzHbmHa8UjpLF0uT.png?ixlib=java-2.1.0&w=50&s=8a2aafa8dba18add3950f0c5b5a22a7b",
+            "result": "loser"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Evil Geniuses",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Spirit",
+            "score": 9,
+            "image": "https://img-cdn.hltv.org/teamlogo/l7kuxrEAcHnKebe1lagTwv.svg?ixlib=java-2.1.0&s=8bca7011fe85275b16e811b872df6111",
+            "result": "loser"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "NIP",
+            "score": 9,
+            "image": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "OG",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/7b6DouMNGWcqENDx1vw_Ot.png?ixlib=java-2.1.0&w=50&s=5ffc85bfbc0398d0a826590a790a08a6",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "fnatic",
+            "score": 10,
+            "image": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Virtus.pro",
+            "score": 16,
+            "image": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "result": "winner"
+          }
+        }
+      ],
+      "semiFinal": [
+        {
+          "firstTeam": {
+            "name": "Heroic",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/ffSPDr5mbWSKI4yruyfVtx.svg?ixlib=java-2.1.0&s=2b0a91cf4a31e6eec7a5928b10465f32",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Evil Geniuses",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "OG",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/7b6DouMNGWcqENDx1vw_Ot.png?ixlib=java-2.1.0&w=50&s=5ffc85bfbc0398d0a826590a790a08a6",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Virtus.pro",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "result": "loser"
+          }
+        }
+      ],
+      "final": [
+        {
+          "firstTeam": {
+            "name": "Evil Geniuses",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "OG",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/7b6DouMNGWcqENDx1vw_Ot.png?ixlib=java-2.1.0&w=50&s=5ffc85bfbc0398d0a826590a790a08a6",
+            "result": "winner"
+          }
+        }
+      ]
+    },
+    "lowerBracket": {
+      "quarterFinal": [
+        {
+          "firstTeam": {
+            "name": "Imperial",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/iObWbBmzHbmHa8UjpLF0uT.png?ixlib=java-2.1.0&w=50&s=8a2aafa8dba18add3950f0c5b5a22a7b",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "Spirit",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/l7kuxrEAcHnKebe1lagTwv.svg?ixlib=java-2.1.0&s=8bca7011fe85275b16e811b872df6111",
+            "result": "winner"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "NIP",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "fnatic",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "result": "loser"
+          }
+        }
+      ],
+      "semiFinal": [
+        {
+          "firstTeam": {
+            "name": "Virtus.pro",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "Spirit",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/l7kuxrEAcHnKebe1lagTwv.svg?ixlib=java-2.1.0&s=8bca7011fe85275b16e811b872df6111",
+            "result": "loser"
+          }
+        },
+        {
+          "firstTeam": {
+            "name": "Heroic",
+            "score": 0,
+            "image": "https://img-cdn.hltv.org/teamlogo/ffSPDr5mbWSKI4yruyfVtx.svg?ixlib=java-2.1.0&s=2b0a91cf4a31e6eec7a5928b10465f32",
+            "result": "loser"
+          },
+          "secondTeam": {
+            "name": "NIP",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9",
+            "result": "winner"
+          }
+        }
+      ],
+      "final": [
+        {
+          "firstTeam": {
+            "name": "Virtus.pro",
+            "score": 2,
+            "image": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "result": "winner"
+          },
+          "secondTeam": {
+            "name": "NIP",
+            "score": 1,
+            "image": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9",
+            "result": "loser"
+          }
+        }
+      ]
+    }
+  }
+}
