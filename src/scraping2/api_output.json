@@ -1,0 +1,2835 @@
+{
+    "name": "Double Elimination Bracket",
+    "display": "Expanded",
+    "upperTierName": "Upper Bracket",
+    "lowerTierName": "Lower Bracket",
+    "upperRound1": {
+        "roundName": {
+            "name": "Opening round",
+            "shortName": "Opening rd"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "UpperQuarters1"
+            },
+            "match": {
+                "matchId": 2349170,
+                "status": "Normal",
+                "startTime": 1.6237638E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349170/gambit-vs-evil-geniuses-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349170"
+            },
+            "result": {
+                "matchScore": {
+                    "team1Score": 2,
+                    "team2Score": 0,
+                    "team1Winner": true,
+                    "team1Lineup": [
+                        {
+                            "id": 8528,
+                            "nick": "Hobbit",
+                            "profileURL": "/player/8528/hobbit",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                            "rating": "1.26"
+                        },
+                        {
+                            "id": 15071,
+                            "nick": "interz",
+                            "profileURL": "/player/15071/interz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                            "rating": "1.06"
+                        },
+                        {
+                            "id": 16555,
+                            "nick": "Ax1Le",
+                            "profileURL": "/player/16555/ax1le",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                            "rating": "1.36"
+                        },
+                        {
+                            "id": 16920,
+                            "nick": "sh1ro",
+                            "profileURL": "/player/16920/sh1ro",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                            "rating": "1.41"
+                        },
+                        {
+                            "id": 16921,
+                            "nick": "nafany",
+                            "profileURL": "/player/16921/nafany",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                            "rating": "0.91"
+                        }
+                    ],
+                    "team2Lineup": [
+                        {
+                            "id": 7356,
+                            "nick": "MICHU",
+                            "profileURL": "/player/7356/michu",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                            "rating": "0.98"
+                        },
+                        {
+                            "id": 8507,
+                            "nick": "stanislaw",
+                            "profileURL": "/player/8507/stanislaw",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                            "rating": "0.78"
+                        },
+                        {
+                            "id": 9136,
+                            "nick": "Brehze",
+                            "profileURL": "/player/9136/brehze",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                            "rating": "0.96"
+                        },
+                        {
+                            "id": 11219,
+                            "nick": "CeRq",
+                            "profileURL": "/player/11219/cerq",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                            "rating": "0.81"
+                        },
+                        {
+                            "id": 14614,
+                            "nick": "oBo",
+                            "profileURL": "/player/14614/obo",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                            "rating": "0.86"
+                        }
+                    ]
+                },
+                "mapScores": [
+                    {
+                        "mapName": "Inferno",
+                        "team1Score": 22,
+                        "team2Score": 20,
+                        "team1Winner": true
+                    },
+                    {
+                        "mapName": "Dust2",
+                        "team1Score": 16,
+                        "team2Score": 11,
+                        "team1Winner": true
+                    }
+                ]
+            },
+            "team1": {
+                "team": {
+                    "id": 6651,
+                    "name": "Gambit",
+                    "profileURL": "/team/6651/gambit",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                    },
+                    "ranking": 1,
+                    "lineup": [
+                        {
+                            "id": 8528,
+                            "nick": "Hobbit",
+                            "profileURL": "/player/8528/hobbit",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                            "rating": "1.23"
+                        },
+                        {
+                            "id": 15071,
+                            "nick": "interz",
+                            "profileURL": "/player/15071/interz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                            "rating": "0.99"
+                        },
+                        {
+                            "id": 16555,
+                            "nick": "Ax1Le",
+                            "profileURL": "/player/16555/ax1le",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                            "rating": "1.23"
+                        },
+                        {
+                            "id": 16920,
+                            "nick": "sh1ro",
+                            "profileURL": "/player/16920/sh1ro",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                            "rating": "1.27"
+                        },
+                        {
+                            "id": 16921,
+                            "nick": "nafany",
+                            "profileURL": "/player/16921/nafany",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                            "rating": "1.08"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "team2": {
+                "team": {
+                    "id": 10399,
+                    "name": "Evil Geniuses",
+                    "profileURL": "/team/10399/evil-geniuses",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                    },
+                    "ranking": 21,
+                    "lineup": [
+                        {
+                            "id": 7356,
+                            "nick": "MICHU",
+                            "profileURL": "/player/7356/michu",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                            "rating": "0.99"
+                        },
+                        {
+                            "id": 8507,
+                            "nick": "stanislaw",
+                            "profileURL": "/player/8507/stanislaw",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                            "rating": "0.84"
+                        },
+                        {
+                            "id": 9136,
+                            "nick": "Brehze",
+                            "profileURL": "/player/9136/brehze",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                            "rating": "1.02"
+                        },
+                        {
+                            "id": 11219,
+                            "nick": "CeRq",
+                            "profileURL": "/player/11219/cerq",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                            "rating": "0.98"
+                        },
+                        {
+                            "id": 14614,
+                            "nick": "oBo",
+                            "profileURL": "/player/14614/obo",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                            "rating": "1.06"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false
+        },
+        "slot2": {
+            "slotId": {
+                "id": "UpperQuarters2"
+            },
+            "match": {
+                "matchId": 2349171,
+                "status": "Normal",
+                "startTime": 1.6237767E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349171/nip-vs-complexity-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349171"
+            },
+            "result": {
+                "matchScore": {
+                    "team1Score": 0,
+                    "team2Score": 2,
+                    "team1Winner": false,
+                    "team1Lineup": [
+                        {
+                            "id": 7592,
+                            "nick": "device",
+                            "profileURL": "/player/7592/device",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                            "rating": "0.70"
+                        },
+                        {
+                            "id": 9278,
+                            "nick": "REZ",
+                            "profileURL": "/player/9278/rez",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                            "rating": "0.91"
+                        },
+                        {
+                            "id": 9766,
+                            "nick": "hampus",
+                            "profileURL": "/player/9766/hampus",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                            "rating": "0.76"
+                        },
+                        {
+                            "id": 14218,
+                            "nick": "Plopski",
+                            "profileURL": "/player/14218/plopski",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                            "rating": "0.63"
+                        },
+                        {
+                            "id": 19310,
+                            "nick": "LNZ",
+                            "profileURL": "/player/19310/lnz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                            "rating": "0.97"
+                        }
+                    ],
+                    "team2Lineup": [
+                        {
+                            "id": 4679,
+                            "nick": "jks",
+                            "profileURL": "/player/4679/jks",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                            "rating": "1.18"
+                        },
+                        {
+                            "id": 7805,
+                            "nick": "RUSH",
+                            "profileURL": "/player/7805/rush",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                            "rating": "1.05"
+                        },
+                        {
+                            "id": 9078,
+                            "nick": "k0nfig",
+                            "profileURL": "/player/9078/k0nfig",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                            "rating": "1.66"
+                        },
+                        {
+                            "id": 12126,
+                            "nick": "poizon",
+                            "profileURL": "/player/12126/poizon",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                            "rating": "1.17"
+                        },
+                        {
+                            "id": 15165,
+                            "nick": "blameF",
+                            "profileURL": "/player/15165/blamef",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                            "rating": "1.49"
+                        }
+                    ]
+                },
+                "mapScores": [
+                    {
+                        "mapName": "Mirage",
+                        "team1Score": 10,
+                        "team2Score": 16,
+                        "team1Winner": false
+                    },
+                    {
+                        "mapName": "Ancient",
+                        "team1Score": 9,
+                        "team2Score": 16,
+                        "team1Winner": false
+                    }
+                ]
+            },
+            "team1": {
+                "team": {
+                    "id": 4411,
+                    "name": "NIP",
+                    "profileURL": "/team/4411/nip",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                    },
+                    "ranking": 11,
+                    "lineup": [
+                        {
+                            "id": 7592,
+                            "nick": "device",
+                            "profileURL": "/player/7592/device",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                            "rating": "1.10"
+                        },
+                        {
+                            "id": 9278,
+                            "nick": "REZ",
+                            "profileURL": "/player/9278/rez",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                            "rating": "1.08"
+                        },
+                        {
+                            "id": 9766,
+                            "nick": "hampus",
+                            "profileURL": "/player/9766/hampus",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                            "rating": "1.02"
+                        },
+                        {
+                            "id": 14218,
+                            "nick": "Plopski",
+                            "profileURL": "/player/14218/plopski",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                            "rating": "0.97"
+                        },
+                        {
+                            "id": 19310,
+                            "nick": "LNZ",
+                            "profileURL": "/player/19310/lnz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                            "rating": "1.02"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "team2": {
+                "team": {
+                    "id": 5005,
+                    "name": "Complexity",
+                    "profileURL": "/team/5005/complexity",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                    },
+                    "ranking": 14,
+                    "lineup": [
+                        {
+                            "id": 4679,
+                            "nick": "jks",
+                            "profileURL": "/player/4679/jks",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                            "rating": "1.06"
+                        },
+                        {
+                            "id": 7805,
+                            "nick": "RUSH",
+                            "profileURL": "/player/7805/rush",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                            "rating": "0.91"
+                        },
+                        {
+                            "id": 9078,
+                            "nick": "k0nfig",
+                            "profileURL": "/player/9078/k0nfig",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                            "rating": "1.14"
+                        },
+                        {
+                            "id": 12126,
+                            "nick": "poizon",
+                            "profileURL": "/player/12126/poizon",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                            "rating": "1.00"
+                        },
+                        {
+                            "id": 15165,
+                            "nick": "blameF",
+                            "profileURL": "/player/15165/blamef",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                            "rating": "1.16"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false
+        },
+        "slot3": {
+            "slotId": {
+                "id": "UpperQuarters3"
+            },
+            "match": {
+                "matchId": 2349172,
+                "status": "Normal",
+                "startTime": 1.6238394E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349172/g2-vs-big-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349172"
+            },
+            "team1": {
+                "team": {
+                    "id": 5995,
+                    "name": "G2",
+                    "profileURL": "/team/5995/g2",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                    },
+                    "ranking": 4,
+                    "lineup": [
+                        {
+                            "id": 284,
+                            "nick": "JaCkz",
+                            "profileURL": "/player/284/jackz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Pvs1o_HbcEfG-w9yNkx0IW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=144%2C0%2C424%2C424&w=100&s=0ae5f19a09f8902c5e707e6182f4d8aa",
+                            "rating": "0.92"
+                        },
+                        {
+                            "id": 3741,
+                            "nick": "NiKo",
+                            "profileURL": "/player/3741/niko",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/PpLtPwBBTsBUxDVlPoN9LW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C455%2C455&w=100&s=0261e9b55937a05761483d256d740ab8",
+                            "rating": "1.16"
+                        },
+                        {
+                            "id": 3972,
+                            "nick": "huNter-",
+                            "profileURL": "/player/3972/hunter",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/2zFjOxdQPciZTiHw7yW7_b.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C16%2C467%2C467&w=100&s=7cbf44a97e16692cd825e773952dfa68",
+                            "rating": "1.13"
+                        },
+                        {
+                            "id": 9616,
+                            "nick": "AmaNEk",
+                            "profileURL": "/player/9616/amanek",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/zTAshhA5FEz6pTYAl_Jr9y.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C463%2C463&w=100&s=8f6669ec6b7c79aa465d4b28093835d0",
+                            "rating": "0.99"
+                        },
+                        {
+                            "id": 9618,
+                            "nick": "nexa",
+                            "profileURL": "/player/9618/nexa",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/DSg8nWRyU8UFm1SQGNiOkH.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C23%2C459%2C459&w=100&s=8f812d4cd3b482dd9a6712f81a89228c",
+                            "rating": "0.98"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "team2": {
+                "team": {
+                    "id": 7532,
+                    "name": "BIG",
+                    "profileURL": "/team/7532/big",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                    },
+                    "ranking": 9,
+                    "lineup": [
+                        {
+                            "id": 5794,
+                            "nick": "tabseN",
+                            "profileURL": "/player/5794/tabsen",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/t0E5cBNz_FFidq0syp3I0K.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=136%2C0%2C455%2C455&w=100&s=a86a56f8964ad29d126e066fbfe5509e",
+                            "rating": "1.06"
+                        },
+                        {
+                            "id": 5796,
+                            "nick": "tiziaN",
+                            "profileURL": "/player/5796/tizian",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/p6SnsU0JE-53ekL4lsgNvG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C459%2C459&w=100&s=cf12e235ecb88a388de24dbb38328037",
+                            "rating": "0.96"
+                        },
+                        {
+                            "id": 7266,
+                            "nick": "syrsoN",
+                            "profileURL": "/player/7266/syrson",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Ryh8TmyLFUZb7Fx9S8Rfbv.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=220d3675fb8cce3c534788fd858c1a9c",
+                            "rating": "1.13"
+                        },
+                        {
+                            "id": 7938,
+                            "nick": "XANTARES",
+                            "profileURL": "/player/7938/xantares",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RkBcD0hXW4RB_JMLJD9Q8d.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=109f17309d23fdfb02fd369446906621",
+                            "rating": "1.14"
+                        },
+                        {
+                            "id": 12781,
+                            "nick": "k1to",
+                            "profileURL": "/player/12781/k1to",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/ixjdY_3NjLzTvRP44Oaku5.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=417f8bfb8ff753d4dcdbc44fd7d6b790",
+                            "rating": "0.99"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false
+        },
+        "slot4": {
+            "slotId": {
+                "id": "UpperQuarters4"
+            },
+            "match": {
+                "matchId": 2349173,
+                "status": "Normal",
+                "startTime": 1.6238502E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349173/natus-vincere-vs-faze-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349173"
+            },
+            "team1": {
+                "team": {
+                    "id": 4608,
+                    "name": "Natus Vincere",
+                    "profileURL": "/team/4608/natus-vincere",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                    },
+                    "ranking": 2,
+                    "lineup": [
+                        {
+                            "id": 7998,
+                            "nick": "s1mple",
+                            "profileURL": "/player/7998/s1mple",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/QNTzHmdKTV1o6HWOQyWHdA.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C8%2C455%2C455&w=100&s=d71e1b20c98b5b804f3f51b7a6b22ee1",
+                            "rating": "1.34"
+                        },
+                        {
+                            "id": 8918,
+                            "nick": "electronic",
+                            "profileURL": "/player/8918/electronic",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/cTjURwImqhm9D4BXDcQsBe.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C432%2C432&w=100&s=c98ef67f41f79b5a4fc56c0357b26f61",
+                            "rating": "1.09"
+                        },
+                        {
+                            "id": 11840,
+                            "nick": "Boombl4",
+                            "profileURL": "/player/11840/boombl4",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/J0FemDofPfUz8fncXJD2xO.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C428%2C428&w=100&s=da2c58e10a4cb1432301599f3232abea",
+                            "rating": "0.97"
+                        },
+                        {
+                            "id": 16947,
+                            "nick": "Perfecto",
+                            "profileURL": "/player/16947/perfecto",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/3FyhQAa3Nh2Je2T8Yc2UW2.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C4%2C451%2C451&w=100&s=a88f01d97976a6b981183a24de60e1b0",
+                            "rating": "0.98"
+                        },
+                        {
+                            "id": 18987,
+                            "nick": "B1T",
+                            "profileURL": "/player/18987/b1t",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JFOeo3DP-Jj6p6KbhW7Je2.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C459%2C459&w=100&s=13810f47f0a11cec42056a80567f3b8a",
+                            "rating": "1.04"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "team2": {
+                "team": {
+                    "id": 6667,
+                    "name": "FaZe",
+                    "profileURL": "/team/6667/faze",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                    },
+                    "ranking": 33,
+                    "lineup": [
+                        {
+                            "id": 429,
+                            "nick": "karrigan",
+                            "profileURL": "/player/429/karrigan",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/5Suh1fgKrYNJu56Xq3VP0i.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C455%2C455&w=100&s=6273a7b4b2b5892af8e3370317dd038c",
+                            "rating": "0.85"
+                        },
+                        {
+                            "id": 885,
+                            "nick": "olofmeister",
+                            "profileURL": "/player/885/olofmeister",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/8NCyqTmhC6eidvwoKDl0rF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C8%2C482%2C482&w=100&s=ade5b55fe880823e748852df0ebef757"
+                        },
+                        {
+                            "id": 8183,
+                            "nick": "rain",
+                            "profileURL": "/player/8183/rain",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/4RVubNsjauqVAQM27PWAxG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=bc6c4a1f73e04b0cf26971b91e2e53f9",
+                            "rating": "0.94"
+                        },
+                        {
+                            "id": 10394,
+                            "nick": "Twistzz",
+                            "profileURL": "/player/10394/twistzz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_E1T468NaU0jPDETybYpBS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C463%2C463&w=100&s=f5cd83b8fc4af0575f9451996120ea34",
+                            "rating": "1.16"
+                        },
+                        {
+                            "id": 18053,
+                            "nick": "broky",
+                            "profileURL": "/player/18053/broky",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/rQKmwFsKKeH4jiCAhAvGPQ.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C467%2C467&w=100&s=dcc12654d6e8d91250aca2f4878c1c8e",
+                            "rating": "1.12"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "UpperQuarters1"
+                },
+                "match": {
+                    "matchId": 2349170,
+                    "status": "Normal",
+                    "startTime": 1.6237638E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349170/gambit-vs-evil-geniuses-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349170"
+                },
+                "result": {
+                    "matchScore": {
+                        "team1Score": 2,
+                        "team2Score": 0,
+                        "team1Winner": true,
+                        "team1Lineup": [
+                            {
+                                "id": 8528,
+                                "nick": "Hobbit",
+                                "profileURL": "/player/8528/hobbit",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                                "rating": "1.26"
+                            },
+                            {
+                                "id": 15071,
+                                "nick": "interz",
+                                "profileURL": "/player/15071/interz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                                "rating": "1.06"
+                            },
+                            {
+                                "id": 16555,
+                                "nick": "Ax1Le",
+                                "profileURL": "/player/16555/ax1le",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                                "rating": "1.36"
+                            },
+                            {
+                                "id": 16920,
+                                "nick": "sh1ro",
+                                "profileURL": "/player/16920/sh1ro",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                                "rating": "1.41"
+                            },
+                            {
+                                "id": 16921,
+                                "nick": "nafany",
+                                "profileURL": "/player/16921/nafany",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                                "rating": "0.91"
+                            }
+                        ],
+                        "team2Lineup": [
+                            {
+                                "id": 7356,
+                                "nick": "MICHU",
+                                "profileURL": "/player/7356/michu",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                                "rating": "0.98"
+                            },
+                            {
+                                "id": 8507,
+                                "nick": "stanislaw",
+                                "profileURL": "/player/8507/stanislaw",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                                "rating": "0.78"
+                            },
+                            {
+                                "id": 9136,
+                                "nick": "Brehze",
+                                "profileURL": "/player/9136/brehze",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                                "rating": "0.96"
+                            },
+                            {
+                                "id": 11219,
+                                "nick": "CeRq",
+                                "profileURL": "/player/11219/cerq",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                                "rating": "0.81"
+                            },
+                            {
+                                "id": 14614,
+                                "nick": "oBo",
+                                "profileURL": "/player/14614/obo",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                                "rating": "0.86"
+                            }
+                        ]
+                    },
+                    "mapScores": [
+                        {
+                            "mapName": "Inferno",
+                            "team1Score": 22,
+                            "team2Score": 20,
+                            "team1Winner": true
+                        },
+                        {
+                            "mapName": "Dust2",
+                            "team1Score": 16,
+                            "team2Score": 11,
+                            "team1Winner": true
+                        }
+                    ]
+                },
+                "team1": {
+                    "team": {
+                        "id": 6651,
+                        "name": "Gambit",
+                        "profileURL": "/team/6651/gambit",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                        },
+                        "ranking": 1,
+                        "lineup": [
+                            {
+                                "id": 8528,
+                                "nick": "Hobbit",
+                                "profileURL": "/player/8528/hobbit",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                                "rating": "1.23"
+                            },
+                            {
+                                "id": 15071,
+                                "nick": "interz",
+                                "profileURL": "/player/15071/interz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                                "rating": "0.99"
+                            },
+                            {
+                                "id": 16555,
+                                "nick": "Ax1Le",
+                                "profileURL": "/player/16555/ax1le",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                                "rating": "1.23"
+                            },
+                            {
+                                "id": 16920,
+                                "nick": "sh1ro",
+                                "profileURL": "/player/16920/sh1ro",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                                "rating": "1.27"
+                            },
+                            {
+                                "id": 16921,
+                                "nick": "nafany",
+                                "profileURL": "/player/16921/nafany",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                                "rating": "1.08"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "team2": {
+                    "team": {
+                        "id": 10399,
+                        "name": "Evil Geniuses",
+                        "profileURL": "/team/10399/evil-geniuses",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                        },
+                        "ranking": 21,
+                        "lineup": [
+                            {
+                                "id": 7356,
+                                "nick": "MICHU",
+                                "profileURL": "/player/7356/michu",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                                "rating": "0.99"
+                            },
+                            {
+                                "id": 8507,
+                                "nick": "stanislaw",
+                                "profileURL": "/player/8507/stanislaw",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                                "rating": "0.84"
+                            },
+                            {
+                                "id": 9136,
+                                "nick": "Brehze",
+                                "profileURL": "/player/9136/brehze",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                                "rating": "1.02"
+                            },
+                            {
+                                "id": 11219,
+                                "nick": "CeRq",
+                                "profileURL": "/player/11219/cerq",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                                "rating": "0.98"
+                            },
+                            {
+                                "id": 14614,
+                                "nick": "oBo",
+                                "profileURL": "/player/14614/obo",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                                "rating": "1.06"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false
+            },
+            {
+                "slotId": {
+                    "id": "UpperQuarters2"
+                },
+                "match": {
+                    "matchId": 2349171,
+                    "status": "Normal",
+                    "startTime": 1.6237767E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349171/nip-vs-complexity-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349171"
+                },
+                "result": {
+                    "matchScore": {
+                        "team1Score": 0,
+                        "team2Score": 2,
+                        "team1Winner": false,
+                        "team1Lineup": [
+                            {
+                                "id": 7592,
+                                "nick": "device",
+                                "profileURL": "/player/7592/device",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                                "rating": "0.70"
+                            },
+                            {
+                                "id": 9278,
+                                "nick": "REZ",
+                                "profileURL": "/player/9278/rez",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                                "rating": "0.91"
+                            },
+                            {
+                                "id": 9766,
+                                "nick": "hampus",
+                                "profileURL": "/player/9766/hampus",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                                "rating": "0.76"
+                            },
+                            {
+                                "id": 14218,
+                                "nick": "Plopski",
+                                "profileURL": "/player/14218/plopski",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                                "rating": "0.63"
+                            },
+                            {
+                                "id": 19310,
+                                "nick": "LNZ",
+                                "profileURL": "/player/19310/lnz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                                "rating": "0.97"
+                            }
+                        ],
+                        "team2Lineup": [
+                            {
+                                "id": 4679,
+                                "nick": "jks",
+                                "profileURL": "/player/4679/jks",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                                "rating": "1.18"
+                            },
+                            {
+                                "id": 7805,
+                                "nick": "RUSH",
+                                "profileURL": "/player/7805/rush",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                                "rating": "1.05"
+                            },
+                            {
+                                "id": 9078,
+                                "nick": "k0nfig",
+                                "profileURL": "/player/9078/k0nfig",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                                "rating": "1.66"
+                            },
+                            {
+                                "id": 12126,
+                                "nick": "poizon",
+                                "profileURL": "/player/12126/poizon",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                                "rating": "1.17"
+                            },
+                            {
+                                "id": 15165,
+                                "nick": "blameF",
+                                "profileURL": "/player/15165/blamef",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                                "rating": "1.49"
+                            }
+                        ]
+                    },
+                    "mapScores": [
+                        {
+                            "mapName": "Mirage",
+                            "team1Score": 10,
+                            "team2Score": 16,
+                            "team1Winner": false
+                        },
+                        {
+                            "mapName": "Ancient",
+                            "team1Score": 9,
+                            "team2Score": 16,
+                            "team1Winner": false
+                        }
+                    ]
+                },
+                "team1": {
+                    "team": {
+                        "id": 4411,
+                        "name": "NIP",
+                        "profileURL": "/team/4411/nip",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                        },
+                        "ranking": 11,
+                        "lineup": [
+                            {
+                                "id": 7592,
+                                "nick": "device",
+                                "profileURL": "/player/7592/device",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                                "rating": "1.10"
+                            },
+                            {
+                                "id": 9278,
+                                "nick": "REZ",
+                                "profileURL": "/player/9278/rez",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                                "rating": "1.08"
+                            },
+                            {
+                                "id": 9766,
+                                "nick": "hampus",
+                                "profileURL": "/player/9766/hampus",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                                "rating": "1.02"
+                            },
+                            {
+                                "id": 14218,
+                                "nick": "Plopski",
+                                "profileURL": "/player/14218/plopski",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                                "rating": "0.97"
+                            },
+                            {
+                                "id": 19310,
+                                "nick": "LNZ",
+                                "profileURL": "/player/19310/lnz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                                "rating": "1.02"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "team2": {
+                    "team": {
+                        "id": 5005,
+                        "name": "Complexity",
+                        "profileURL": "/team/5005/complexity",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                        },
+                        "ranking": 14,
+                        "lineup": [
+                            {
+                                "id": 4679,
+                                "nick": "jks",
+                                "profileURL": "/player/4679/jks",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                                "rating": "1.06"
+                            },
+                            {
+                                "id": 7805,
+                                "nick": "RUSH",
+                                "profileURL": "/player/7805/rush",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                                "rating": "0.91"
+                            },
+                            {
+                                "id": 9078,
+                                "nick": "k0nfig",
+                                "profileURL": "/player/9078/k0nfig",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                                "rating": "1.14"
+                            },
+                            {
+                                "id": 12126,
+                                "nick": "poizon",
+                                "profileURL": "/player/12126/poizon",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                                "rating": "1.00"
+                            },
+                            {
+                                "id": 15165,
+                                "nick": "blameF",
+                                "profileURL": "/player/15165/blamef",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                                "rating": "1.16"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false
+            },
+            {
+                "slotId": {
+                    "id": "UpperQuarters3"
+                },
+                "match": {
+                    "matchId": 2349172,
+                    "status": "Normal",
+                    "startTime": 1.6238394E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349172/g2-vs-big-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349172"
+                },
+                "team1": {
+                    "team": {
+                        "id": 5995,
+                        "name": "G2",
+                        "profileURL": "/team/5995/g2",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                        },
+                        "ranking": 4,
+                        "lineup": [
+                            {
+                                "id": 284,
+                                "nick": "JaCkz",
+                                "profileURL": "/player/284/jackz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Pvs1o_HbcEfG-w9yNkx0IW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=144%2C0%2C424%2C424&w=100&s=0ae5f19a09f8902c5e707e6182f4d8aa",
+                                "rating": "0.92"
+                            },
+                            {
+                                "id": 3741,
+                                "nick": "NiKo",
+                                "profileURL": "/player/3741/niko",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/PpLtPwBBTsBUxDVlPoN9LW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C455%2C455&w=100&s=0261e9b55937a05761483d256d740ab8",
+                                "rating": "1.16"
+                            },
+                            {
+                                "id": 3972,
+                                "nick": "huNter-",
+                                "profileURL": "/player/3972/hunter",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/2zFjOxdQPciZTiHw7yW7_b.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C16%2C467%2C467&w=100&s=7cbf44a97e16692cd825e773952dfa68",
+                                "rating": "1.13"
+                            },
+                            {
+                                "id": 9616,
+                                "nick": "AmaNEk",
+                                "profileURL": "/player/9616/amanek",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/zTAshhA5FEz6pTYAl_Jr9y.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C463%2C463&w=100&s=8f6669ec6b7c79aa465d4b28093835d0",
+                                "rating": "0.99"
+                            },
+                            {
+                                "id": 9618,
+                                "nick": "nexa",
+                                "profileURL": "/player/9618/nexa",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/DSg8nWRyU8UFm1SQGNiOkH.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C23%2C459%2C459&w=100&s=8f812d4cd3b482dd9a6712f81a89228c",
+                                "rating": "0.98"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "team2": {
+                    "team": {
+                        "id": 7532,
+                        "name": "BIG",
+                        "profileURL": "/team/7532/big",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                        },
+                        "ranking": 9,
+                        "lineup": [
+                            {
+                                "id": 5794,
+                                "nick": "tabseN",
+                                "profileURL": "/player/5794/tabsen",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/t0E5cBNz_FFidq0syp3I0K.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=136%2C0%2C455%2C455&w=100&s=a86a56f8964ad29d126e066fbfe5509e",
+                                "rating": "1.06"
+                            },
+                            {
+                                "id": 5796,
+                                "nick": "tiziaN",
+                                "profileURL": "/player/5796/tizian",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/p6SnsU0JE-53ekL4lsgNvG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C459%2C459&w=100&s=cf12e235ecb88a388de24dbb38328037",
+                                "rating": "0.96"
+                            },
+                            {
+                                "id": 7266,
+                                "nick": "syrsoN",
+                                "profileURL": "/player/7266/syrson",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Ryh8TmyLFUZb7Fx9S8Rfbv.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=220d3675fb8cce3c534788fd858c1a9c",
+                                "rating": "1.13"
+                            },
+                            {
+                                "id": 7938,
+                                "nick": "XANTARES",
+                                "profileURL": "/player/7938/xantares",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RkBcD0hXW4RB_JMLJD9Q8d.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=109f17309d23fdfb02fd369446906621",
+                                "rating": "1.14"
+                            },
+                            {
+                                "id": 12781,
+                                "nick": "k1to",
+                                "profileURL": "/player/12781/k1to",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/ixjdY_3NjLzTvRP44Oaku5.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C471%2C471&w=100&s=417f8bfb8ff753d4dcdbc44fd7d6b790",
+                                "rating": "0.99"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false
+            },
+            {
+                "slotId": {
+                    "id": "UpperQuarters4"
+                },
+                "match": {
+                    "matchId": 2349173,
+                    "status": "Normal",
+                    "startTime": 1.6238502E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349173/natus-vincere-vs-faze-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349173"
+                },
+                "team1": {
+                    "team": {
+                        "id": 4608,
+                        "name": "Natus Vincere",
+                        "profileURL": "/team/4608/natus-vincere",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                        },
+                        "ranking": 2,
+                        "lineup": [
+                            {
+                                "id": 7998,
+                                "nick": "s1mple",
+                                "profileURL": "/player/7998/s1mple",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/QNTzHmdKTV1o6HWOQyWHdA.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C8%2C455%2C455&w=100&s=d71e1b20c98b5b804f3f51b7a6b22ee1",
+                                "rating": "1.34"
+                            },
+                            {
+                                "id": 8918,
+                                "nick": "electronic",
+                                "profileURL": "/player/8918/electronic",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/cTjURwImqhm9D4BXDcQsBe.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C432%2C432&w=100&s=c98ef67f41f79b5a4fc56c0357b26f61",
+                                "rating": "1.09"
+                            },
+                            {
+                                "id": 11840,
+                                "nick": "Boombl4",
+                                "profileURL": "/player/11840/boombl4",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/J0FemDofPfUz8fncXJD2xO.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C428%2C428&w=100&s=da2c58e10a4cb1432301599f3232abea",
+                                "rating": "0.97"
+                            },
+                            {
+                                "id": 16947,
+                                "nick": "Perfecto",
+                                "profileURL": "/player/16947/perfecto",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/3FyhQAa3Nh2Je2T8Yc2UW2.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C4%2C451%2C451&w=100&s=a88f01d97976a6b981183a24de60e1b0",
+                                "rating": "0.98"
+                            },
+                            {
+                                "id": 18987,
+                                "nick": "B1T",
+                                "profileURL": "/player/18987/b1t",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JFOeo3DP-Jj6p6KbhW7Je2.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C16%2C459%2C459&w=100&s=13810f47f0a11cec42056a80567f3b8a",
+                                "rating": "1.04"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "team2": {
+                    "team": {
+                        "id": 6667,
+                        "name": "FaZe",
+                        "profileURL": "/team/6667/faze",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                        },
+                        "ranking": 33,
+                        "lineup": [
+                            {
+                                "id": 429,
+                                "nick": "karrigan",
+                                "profileURL": "/player/429/karrigan",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/5Suh1fgKrYNJu56Xq3VP0i.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C455%2C455&w=100&s=6273a7b4b2b5892af8e3370317dd038c",
+                                "rating": "0.85"
+                            },
+                            {
+                                "id": 885,
+                                "nick": "olofmeister",
+                                "profileURL": "/player/885/olofmeister",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/8NCyqTmhC6eidvwoKDl0rF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C8%2C482%2C482&w=100&s=ade5b55fe880823e748852df0ebef757"
+                            },
+                            {
+                                "id": 8183,
+                                "nick": "rain",
+                                "profileURL": "/player/8183/rain",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/4RVubNsjauqVAQM27PWAxG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=bc6c4a1f73e04b0cf26971b91e2e53f9",
+                                "rating": "0.94"
+                            },
+                            {
+                                "id": 10394,
+                                "nick": "Twistzz",
+                                "profileURL": "/player/10394/twistzz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_E1T468NaU0jPDETybYpBS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C463%2C463&w=100&s=f5cd83b8fc4af0575f9451996120ea34",
+                                "rating": "1.16"
+                            },
+                            {
+                                "id": 18053,
+                                "nick": "broky",
+                                "profileURL": "/player/18053/broky",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/rQKmwFsKKeH4jiCAhAvGPQ.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C467%2C467&w=100&s=dcc12654d6e8d91250aca2f4878c1c8e",
+                                "rating": "1.12"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false
+            }
+        ]
+    },
+    "upperRound2": {
+        "roundName": {
+            "name": "Upper semi-finals",
+            "shortName": "U. semis"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "UpperSemis1"
+            },
+            "match": {
+                "matchId": 2349176,
+                "status": "Normal",
+                "startTime": 1.6239366E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349176/gambit-vs-complexity-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349176"
+            },
+            "team1": {
+                "team": {
+                    "id": 6651,
+                    "name": "Gambit",
+                    "profileURL": "/team/6651/gambit",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                    },
+                    "ranking": 1,
+                    "lineup": [
+                        {
+                            "id": 8528,
+                            "nick": "Hobbit",
+                            "profileURL": "/player/8528/hobbit",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                            "rating": "1.23"
+                        },
+                        {
+                            "id": 15071,
+                            "nick": "interz",
+                            "profileURL": "/player/15071/interz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                            "rating": "0.99"
+                        },
+                        {
+                            "id": 16555,
+                            "nick": "Ax1Le",
+                            "profileURL": "/player/16555/ax1le",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                            "rating": "1.23"
+                        },
+                        {
+                            "id": 16920,
+                            "nick": "sh1ro",
+                            "profileURL": "/player/16920/sh1ro",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                            "rating": "1.27"
+                        },
+                        {
+                            "id": 16921,
+                            "nick": "nafany",
+                            "profileURL": "/player/16921/nafany",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                            "rating": "1.08"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "team2": {
+                "team": {
+                    "id": 5005,
+                    "name": "Complexity",
+                    "profileURL": "/team/5005/complexity",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                    },
+                    "ranking": 14,
+                    "lineup": [
+                        {
+                            "id": 4679,
+                            "nick": "jks",
+                            "profileURL": "/player/4679/jks",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                            "rating": "1.06"
+                        },
+                        {
+                            "id": 7805,
+                            "nick": "RUSH",
+                            "profileURL": "/player/7805/rush",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                            "rating": "0.91"
+                        },
+                        {
+                            "id": 9078,
+                            "nick": "k0nfig",
+                            "profileURL": "/player/9078/k0nfig",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                            "rating": "1.14"
+                        },
+                        {
+                            "id": 12126,
+                            "nick": "poizon",
+                            "profileURL": "/player/12126/poizon",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                            "rating": "1.00"
+                        },
+                        {
+                            "id": 15165,
+                            "nick": "blameF",
+                            "profileURL": "/player/15165/blamef",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                            "rating": "1.16"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperQuarters1"
+            },
+            "slotEntry2": {
+                "id": "UpperQuarters2"
+            }
+        },
+        "slot2": {
+            "slotId": {
+                "id": "UpperSemis2"
+            },
+            "match": {
+                "matchId": 2349177,
+                "status": "Normal",
+                "startTime": 1.6239474E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349177/blast-premier-spring-final-ub-semi-final-2-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349177"
+            },
+            "team1": {
+                "candidates": [
+                    {
+                        "id": 5995,
+                        "name": "G2",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                        },
+                        "ranking": 4
+                    },
+                    {
+                        "id": 7532,
+                        "name": "BIG",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                        },
+                        "ranking": 9
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "team2": {
+                "candidates": [
+                    {
+                        "id": 4608,
+                        "name": "Natus Vincere",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                        },
+                        "ranking": 2
+                    },
+                    {
+                        "id": 6667,
+                        "name": "FaZe",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                        },
+                        "ranking": 33
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperQuarters3"
+            },
+            "slotEntry2": {
+                "id": "UpperQuarters4"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "UpperSemis1"
+                },
+                "match": {
+                    "matchId": 2349176,
+                    "status": "Normal",
+                    "startTime": 1.6239366E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349176/gambit-vs-complexity-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349176"
+                },
+                "team1": {
+                    "team": {
+                        "id": 6651,
+                        "name": "Gambit",
+                        "profileURL": "/team/6651/gambit",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                        },
+                        "ranking": 1,
+                        "lineup": [
+                            {
+                                "id": 8528,
+                                "nick": "Hobbit",
+                                "profileURL": "/player/8528/hobbit",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C486%2C486&w=100&s=5173e1e038222163ba6b40ab7784c5d6",
+                                "rating": "1.23"
+                            },
+                            {
+                                "id": 15071,
+                                "nick": "interz",
+                                "profileURL": "/player/15071/interz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/RWr4TjgjwvTl4hlyO5t6sP.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=101%2C12%2C494%2C494&w=100&s=545a4a5a31cdaa701700af1a8284c379",
+                                "rating": "0.99"
+                            },
+                            {
+                                "id": 16555,
+                                "nick": "Ax1Le",
+                                "profileURL": "/player/16555/ax1le",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=117%2C12%2C482%2C482&w=100&s=76c05b682c3558d45042fba181a1a757",
+                                "rating": "1.23"
+                            },
+                            {
+                                "id": 16920,
+                                "nick": "sh1ro",
+                                "profileURL": "/player/16920/sh1ro",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=109%2C12%2C494%2C494&w=100&s=2131635da66274040ea8cbac78e979b0",
+                                "rating": "1.27"
+                            },
+                            {
+                                "id": 16921,
+                                "nick": "nafany",
+                                "profileURL": "/player/16921/nafany",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/E1MHmte4xcMCuFMEiqQoBf.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=113%2C12%2C490%2C490&w=100&s=02a2b00a6d79da20ec05cc1fe49e0a27",
+                                "rating": "1.08"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "team2": {
+                    "team": {
+                        "id": 5005,
+                        "name": "Complexity",
+                        "profileURL": "/team/5005/complexity",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                        },
+                        "ranking": 14,
+                        "lineup": [
+                            {
+                                "id": 4679,
+                                "nick": "jks",
+                                "profileURL": "/player/4679/jks",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C0%2C455%2C455&w=100&s=cbc6ad7e76e6a2624725cdd58023f492",
+                                "rating": "1.06"
+                            },
+                            {
+                                "id": 7805,
+                                "nick": "RUSH",
+                                "profileURL": "/player/7805/rush",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/Fr7aFoWWJur-3A1njWeOup.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=148%2C12%2C412%2C412&w=100&s=80ac7ac6a0ceb3857f9fcc6f24e9534e",
+                                "rating": "0.91"
+                            },
+                            {
+                                "id": 9078,
+                                "nick": "k0nfig",
+                                "profileURL": "/player/9078/k0nfig",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=156%2C0%2C424%2C424&w=100&s=6be7801120506ad18c6c8ea1fb79dfcc",
+                                "rating": "1.14"
+                            },
+                            {
+                                "id": 12126,
+                                "nick": "poizon",
+                                "profileURL": "/player/12126/poizon",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/0-GAjvwH_ubpOSDUTHM4Qs.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C0%2C439%2C439&w=100&s=651ce671c61f218f38c4b8461a69fabe",
+                                "rating": "1.00"
+                            },
+                            {
+                                "id": 15165,
+                                "nick": "blameF",
+                                "profileURL": "/player/15165/blamef",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C8%2C447%2C447&w=100&s=640c5da4a2299cb1f6d78089aeaa32a2",
+                                "rating": "1.16"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperQuarters1"
+                },
+                "slotEntry2": {
+                    "id": "UpperQuarters2"
+                }
+            },
+            {
+                "slotId": {
+                    "id": "UpperSemis2"
+                },
+                "match": {
+                    "matchId": 2349177,
+                    "status": "Normal",
+                    "startTime": 1.6239474E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349177/blast-premier-spring-final-ub-semi-final-2-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349177"
+                },
+                "team1": {
+                    "candidates": [
+                        {
+                            "id": 5995,
+                            "name": "G2",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                            },
+                            "ranking": 4
+                        },
+                        {
+                            "id": 7532,
+                            "name": "BIG",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                            },
+                            "ranking": 9
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "team2": {
+                    "candidates": [
+                        {
+                            "id": 4608,
+                            "name": "Natus Vincere",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                            },
+                            "ranking": 2
+                        },
+                        {
+                            "id": 6667,
+                            "name": "FaZe",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                            },
+                            "ranking": 33
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperQuarters3"
+                },
+                "slotEntry2": {
+                    "id": "UpperQuarters4"
+                }
+            }
+        ]
+    },
+    "upperFinal": {
+        "roundName": {
+            "name": "Upper final",
+            "shortName": "Upper final"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "UpperFinal"
+            },
+            "match": {
+                "matchId": 2349180,
+                "status": "Normal",
+                "startTime": 1.6241094E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349180/blast-premier-spring-final-ub-final-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349180"
+            },
+            "team1": {
+                "candidates": [
+                    {
+                        "id": 6651,
+                        "name": "Gambit",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                        },
+                        "ranking": 1
+                    },
+                    {
+                        "id": 5005,
+                        "name": "Complexity",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                        },
+                        "ranking": 14
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "team2": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "ToLower",
+                "description": "Moves to lower bracket"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperSemis1"
+            },
+            "slotEntry2": {
+                "id": "UpperSemis2"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "UpperFinal"
+                },
+                "match": {
+                    "matchId": 2349180,
+                    "status": "Normal",
+                    "startTime": 1.6241094E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349180/blast-premier-spring-final-ub-final-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349180"
+                },
+                "team1": {
+                    "candidates": [
+                        {
+                            "id": 6651,
+                            "name": "Gambit",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                            },
+                            "ranking": 1
+                        },
+                        {
+                            "id": 5005,
+                            "name": "Complexity",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                            },
+                            "ranking": 14
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "team2": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "ToLower",
+                    "description": "Moves to lower bracket"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperSemis1"
+                },
+                "slotEntry2": {
+                    "id": "UpperSemis2"
+                }
+            }
+        ]
+    },
+    "lowerRound1": {
+        "roundName": {
+            "name": "Lower round 1",
+            "shortName": "L. round 1"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "LowerRound1Match1"
+            },
+            "match": {
+                "matchId": 2349174,
+                "status": "Normal",
+                "startTime": 1.623861E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349174/evil-geniuses-vs-nip-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349174"
+            },
+            "team1": {
+                "team": {
+                    "id": 10399,
+                    "name": "Evil Geniuses",
+                    "profileURL": "/team/10399/evil-geniuses",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                    },
+                    "ranking": 21,
+                    "lineup": [
+                        {
+                            "id": 7356,
+                            "nick": "MICHU",
+                            "profileURL": "/player/7356/michu",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                            "rating": "0.99"
+                        },
+                        {
+                            "id": 8507,
+                            "nick": "stanislaw",
+                            "profileURL": "/player/8507/stanislaw",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                            "rating": "0.84"
+                        },
+                        {
+                            "id": 9136,
+                            "nick": "Brehze",
+                            "profileURL": "/player/9136/brehze",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                            "rating": "1.02"
+                        },
+                        {
+                            "id": 11219,
+                            "nick": "CeRq",
+                            "profileURL": "/player/11219/cerq",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                            "rating": "0.98"
+                        },
+                        {
+                            "id": 14614,
+                            "nick": "oBo",
+                            "profileURL": "/player/14614/obo",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                            "rating": "1.06"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "wormholeEntry1": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "team2": {
+                "team": {
+                    "id": 4411,
+                    "name": "NIP",
+                    "profileURL": "/team/4411/nip",
+                    "teamLogo": {
+                        "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                        "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                    },
+                    "ranking": 11,
+                    "lineup": [
+                        {
+                            "id": 7592,
+                            "nick": "device",
+                            "profileURL": "/player/7592/device",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                            "rating": "1.10"
+                        },
+                        {
+                            "id": 9278,
+                            "nick": "REZ",
+                            "profileURL": "/player/9278/rez",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                            "rating": "1.08"
+                        },
+                        {
+                            "id": 9766,
+                            "nick": "hampus",
+                            "profileURL": "/player/9766/hampus",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                            "rating": "1.02"
+                        },
+                        {
+                            "id": 14218,
+                            "nick": "Plopski",
+                            "profileURL": "/player/14218/plopski",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                            "rating": "0.97"
+                        },
+                        {
+                            "id": 19310,
+                            "nick": "LNZ",
+                            "profileURL": "/player/19310/lnz",
+                            "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                            "rating": "1.02"
+                        }
+                    ]
+                },
+                "type": "FixedTeam"
+            },
+            "wormholeEntry2": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperQuarters1"
+            },
+            "slotEntry2": {
+                "id": "UpperQuarters2"
+            }
+        },
+        "slot2": {
+            "slotId": {
+                "id": "LowerRound1Match2"
+            },
+            "match": {
+                "matchId": 2349175,
+                "status": "Normal",
+                "startTime": 1.6239258E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349175/blast-premier-spring-final-lb-round-1-2-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349175"
+            },
+            "team1": {
+                "candidates": [
+                    {
+                        "id": 5995,
+                        "name": "G2",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                        },
+                        "ranking": 4
+                    },
+                    {
+                        "id": 7532,
+                        "name": "BIG",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                        },
+                        "ranking": 9
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "wormholeEntry1": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "team2": {
+                "candidates": [
+                    {
+                        "id": 4608,
+                        "name": "Natus Vincere",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                        },
+                        "ranking": 2
+                    },
+                    {
+                        "id": 6667,
+                        "name": "FaZe",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                        },
+                        "ranking": 33
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "wormholeEntry2": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperQuarters3"
+            },
+            "slotEntry2": {
+                "id": "UpperQuarters4"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "LowerRound1Match1"
+                },
+                "match": {
+                    "matchId": 2349174,
+                    "status": "Normal",
+                    "startTime": 1.623861E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349174/evil-geniuses-vs-nip-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349174"
+                },
+                "team1": {
+                    "team": {
+                        "id": 10399,
+                        "name": "Evil Geniuses",
+                        "profileURL": "/team/10399/evil-geniuses",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                        },
+                        "ranking": 21,
+                        "lineup": [
+                            {
+                                "id": 7356,
+                                "nick": "MICHU",
+                                "profileURL": "/player/7356/michu",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/usZq8lVIJ0GIqQQ-rRL4LI.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C8%2C455%2C455&w=100&s=4618ef34fb2f08256364f590bb4be27e",
+                                "rating": "0.99"
+                            },
+                            {
+                                "id": 8507,
+                                "nick": "stanislaw",
+                                "profileURL": "/player/8507/stanislaw",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/USH4lD-glQq-rAGOSYqfFS.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C8%2C455%2C455&w=100&s=8a6d8be97743107928691e6dcebbf23f",
+                                "rating": "0.84"
+                            },
+                            {
+                                "id": 9136,
+                                "nick": "Brehze",
+                                "profileURL": "/player/9136/brehze",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/UfUkDmtFrIFXAr_a99xeR-.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=121%2C16%2C471%2C471&w=100&s=37dd0289a55892a37a724f43d4ad8063",
+                                "rating": "1.02"
+                            },
+                            {
+                                "id": 11219,
+                                "nick": "CeRq",
+                                "profileURL": "/player/11219/cerq",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/FR7Ln497XzGz0nxj1rtF96.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=132%2C12%2C451%2C451&w=100&s=7182d0dec0db463f1f978ae074faf279",
+                                "rating": "0.98"
+                            },
+                            {
+                                "id": 14614,
+                                "nick": "oBo",
+                                "profileURL": "/player/14614/obo",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/JDNZpv_4a3vNpfIYglPzPW.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=8afc355b8788d78013316de1cf16f2f7",
+                                "rating": "1.06"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "wormholeEntry1": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "team2": {
+                    "team": {
+                        "id": 4411,
+                        "name": "NIP",
+                        "profileURL": "/team/4411/nip",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                        },
+                        "ranking": 11,
+                        "lineup": [
+                            {
+                                "id": 7592,
+                                "nick": "device",
+                                "profileURL": "/player/7592/device",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C12%2C467%2C467&w=100&s=47bb707cdd91cb3738785e0c83bb6067",
+                                "rating": "1.10"
+                            },
+                            {
+                                "id": 9278,
+                                "nick": "REZ",
+                                "profileURL": "/player/9278/rez",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/wo_7u8xDj7_NLVMkFr-_J7.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C463%2C463&w=100&s=2508a96f91b2fb296b6cc026616a1ed6",
+                                "rating": "1.08"
+                            },
+                            {
+                                "id": 9766,
+                                "nick": "hampus",
+                                "profileURL": "/player/9766/hampus",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/c8Zuac20HpzF0QF8ZP92Rd.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=128%2C12%2C459%2C459&w=100&s=3013000d57ea0c006f25bd2bc2cb12ec",
+                                "rating": "1.02"
+                            },
+                            {
+                                "id": 14218,
+                                "nick": "Plopski",
+                                "profileURL": "/player/14218/plopski",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/WtGwESz1y4aPKFwjL5hGjM.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=140%2C12%2C447%2C447&w=100&s=592da861ebb6dc3b1431266487cbc66c",
+                                "rating": "0.97"
+                            },
+                            {
+                                "id": 19310,
+                                "nick": "LNZ",
+                                "profileURL": "/player/19310/lnz",
+                                "pictureURL": "https://img-cdn.hltv.org/playerbodyshot/6KG1oWIkHJq97YN7FkgNBG.png?bg=3e4c54&h=100&ixlib=java-2.1.0&rect=124%2C16%2C463%2C463&w=100&s=ff24cf1c19bae2d3d05cb16417755416",
+                                "rating": "1.02"
+                            }
+                        ]
+                    },
+                    "type": "FixedTeam"
+                },
+                "wormholeEntry2": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperQuarters1"
+                },
+                "slotEntry2": {
+                    "id": "UpperQuarters2"
+                }
+            },
+            {
+                "slotId": {
+                    "id": "LowerRound1Match2"
+                },
+                "match": {
+                    "matchId": 2349175,
+                    "status": "Normal",
+                    "startTime": 1.6239258E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349175/blast-premier-spring-final-lb-round-1-2-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349175"
+                },
+                "team1": {
+                    "candidates": [
+                        {
+                            "id": 5995,
+                            "name": "G2",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+                            },
+                            "ranking": 4
+                        },
+                        {
+                            "id": 7532,
+                            "name": "BIG",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+                            },
+                            "ranking": 9
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "wormholeEntry1": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "team2": {
+                    "candidates": [
+                        {
+                            "id": 4608,
+                            "name": "Natus Vincere",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937"
+                            },
+                            "ranking": 2
+                        },
+                        {
+                            "id": 6667,
+                            "name": "FaZe",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa"
+                            },
+                            "ranking": 33
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "wormholeEntry2": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperQuarters3"
+                },
+                "slotEntry2": {
+                    "id": "UpperQuarters4"
+                }
+            }
+        ]
+    },
+    "lowerDropdown1": {
+        "roundName": {
+            "name": "Lower semi-finals",
+            "shortName": "L. semis"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "LowerSemis1"
+            },
+            "match": {
+                "matchId": 2349178,
+                "status": "Normal",
+                "startTime": 1.624023E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349178/blast-premier-spring-final-lb-semi-final-1-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349178"
+            },
+            "team1": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "wormholeEntry1": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "team2": {
+                "candidates": [
+                    {
+                        "id": 10399,
+                        "name": "Evil Geniuses",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                        },
+                        "ranking": 21
+                    },
+                    {
+                        "id": 4411,
+                        "name": "NIP",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                        },
+                        "ranking": 11
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperSemis2"
+            },
+            "slotEntry2": {
+                "id": "LowerRound1Match1"
+            }
+        },
+        "slot2": {
+            "slotId": {
+                "id": "LowerSemis2"
+            },
+            "match": {
+                "matchId": 2349179,
+                "status": "Normal",
+                "startTime": 1.6240338E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349179/blast-premier-spring-final-lb-semi-final-2-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349179"
+            },
+            "team1": {
+                "candidates": [
+                    {
+                        "id": 6651,
+                        "name": "Gambit",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                        },
+                        "ranking": 1
+                    },
+                    {
+                        "id": 5005,
+                        "name": "Complexity",
+                        "teamLogo": {
+                            "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                            "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                        },
+                        "ranking": 14
+                    }
+                ],
+                "type": "OneOf"
+            },
+            "wormholeEntry1": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "team2": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperSemis1"
+            },
+            "slotEntry2": {
+                "id": "LowerRound1Match2"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "LowerSemis1"
+                },
+                "match": {
+                    "matchId": 2349178,
+                    "status": "Normal",
+                    "startTime": 1.624023E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349178/blast-premier-spring-final-lb-semi-final-1-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349178"
+                },
+                "team1": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "wormholeEntry1": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "team2": {
+                    "candidates": [
+                        {
+                            "id": 10399,
+                            "name": "Evil Geniuses",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=50eee4fe4fa84d1e0159c0270c67ae26"
+                            },
+                            "ranking": 21
+                        },
+                        {
+                            "id": 4411,
+                            "name": "NIP",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9"
+                            },
+                            "ranking": 11
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperSemis2"
+                },
+                "slotEntry2": {
+                    "id": "LowerRound1Match1"
+                }
+            },
+            {
+                "slotId": {
+                    "id": "LowerSemis2"
+                },
+                "match": {
+                    "matchId": 2349179,
+                    "status": "Normal",
+                    "startTime": 1.6240338E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349179/blast-premier-spring-final-lb-semi-final-2-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349179"
+                },
+                "team1": {
+                    "candidates": [
+                        {
+                            "id": 6651,
+                            "name": "Gambit",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76"
+                            },
+                            "ranking": 1
+                        },
+                        {
+                            "id": 5005,
+                            "name": "Complexity",
+                            "teamLogo": {
+                                "dayLogoURL": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+                                "nightLogoURL": "https://img-cdn.hltv.org/teamlogo/0-i_bEjrf3v4eYqaG0Bix7.svg?ixlib=java-2.1.0&s=4eecbec277f018772a9b92c22da1a459"
+                            },
+                            "ranking": 14
+                        }
+                    ],
+                    "type": "OneOf"
+                },
+                "wormholeEntry1": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "team2": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperSemis1"
+                },
+                "slotEntry2": {
+                    "id": "LowerRound1Match2"
+                }
+            }
+        ]
+    },
+    "lowerRound2": {
+        "roundName": {
+            "name": "Lower final",
+            "shortName": "Lower final"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "LowerFinal"
+            },
+            "match": {
+                "matchId": 2349181,
+                "status": "Normal",
+                "startTime": 1.6241202E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349181/blast-premier-spring-final-lb-final-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349181"
+            },
+            "team1": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "team2": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "LowerSemis1"
+            },
+            "slotEntry2": {
+                "id": "LowerSemis2"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "LowerFinal"
+                },
+                "match": {
+                    "matchId": 2349181,
+                    "status": "Normal",
+                    "startTime": 1.6241202E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349181/blast-premier-spring-final-lb-final-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349181"
+                },
+                "team1": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "team2": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "LowerSemis1"
+                },
+                "slotEntry2": {
+                    "id": "LowerSemis2"
+                }
+            }
+        ]
+    },
+    "consolidationFinal": {
+        "roundName": {
+            "name": "Consolidation final",
+            "shortName": "Cons. final"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "ConsolidationFinal"
+            },
+            "match": {
+                "matchId": 2349182,
+                "status": "Normal",
+                "startTime": 1.6241958E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349182/blast-premier-spring-final-consolidation-final-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349182"
+            },
+            "team1": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "wormholeEntry1": {
+                "type": "FromUpper",
+                "description": "From upper bracket"
+            },
+            "team2": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "ToNextRound",
+                "description": "Proceeds to next round"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperFinal"
+            },
+            "slotEntry2": {
+                "id": "LowerFinal"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "ConsolidationFinal"
+                },
+                "match": {
+                    "matchId": 2349182,
+                    "status": "Normal",
+                    "startTime": 1.6241958E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349182/blast-premier-spring-final-consolidation-final-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349182"
+                },
+                "team1": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "wormholeEntry1": {
+                    "type": "FromUpper",
+                    "description": "From upper bracket"
+                },
+                "team2": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "ToNextRound",
+                    "description": "Proceeds to next round"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperFinal"
+                },
+                "slotEntry2": {
+                    "id": "LowerFinal"
+                }
+            }
+        ]
+    },
+    "grandFinal": {
+        "roundName": {
+            "name": "Grand final",
+            "shortName": "Grand final"
+        },
+        "slot1": {
+            "slotId": {
+                "id": "GrandFinal"
+            },
+            "match": {
+                "matchId": 2349183,
+                "status": "Normal",
+                "startTime": 1.6242102E12,
+                "numberOfMaps": 3,
+                "matchPageURL": "/matches/2349183/blast-premier-spring-final-grand-final-blast-premier-spring-final-2021",
+                "watchURL": "/live?matchId=2349183"
+            },
+            "team1": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "team2": {
+                "candidates": [],
+                "type": "OneOf"
+            },
+            "winnerType": {
+                "type": "EventWinner",
+                "description": "Event winner"
+            },
+            "loserType": {
+                "type": "Eliminated",
+                "description": "Eliminated"
+            },
+            "hidden": false,
+            "slotEntry1": {
+                "id": "UpperFinal"
+            },
+            "slotEntry2": {
+                "id": "ConsolidationFinal"
+            }
+        },
+        "slots": [
+            {
+                "slotId": {
+                    "id": "GrandFinal"
+                },
+                "match": {
+                    "matchId": 2349183,
+                    "status": "Normal",
+                    "startTime": 1.6242102E12,
+                    "numberOfMaps": 3,
+                    "matchPageURL": "/matches/2349183/blast-premier-spring-final-grand-final-blast-premier-spring-final-2021",
+                    "watchURL": "/live?matchId=2349183"
+                },
+                "team1": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "team2": {
+                    "candidates": [],
+                    "type": "OneOf"
+                },
+                "winnerType": {
+                    "type": "EventWinner",
+                    "description": "Event winner"
+                },
+                "loserType": {
+                    "type": "Eliminated",
+                    "description": "Eliminated"
+                },
+                "hidden": false,
+                "slotEntry1": {
+                    "id": "UpperFinal"
+                },
+                "slotEntry2": {
+                    "id": "ConsolidationFinal"
+                }
+            }
+        ]
+    },
+    "type": "DoubleElimination8"
+}
