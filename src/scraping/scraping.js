@@ -1,9 +1,8 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
 const { default: axios } = require('axios');
 
-(async () => {
-    console.log("ALOOOOOO111")
+const tournament = (async () => {
+
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto('https://www.hltv.org/events/5219/iem-summer-2021');
@@ -22,7 +21,7 @@ const { default: axios } = require('axios');
       const lineupArray = [...lineupList]; 
       const prizeNameArray = [...prizeNameList];
       const matchDateArray = [...matchDateList];
-      console.log(matchDateArray)
+
       const matchDateClass = [];
       
       matchDateArray.forEach(item => {
@@ -481,18 +480,17 @@ const { default: axios } = require('axios');
         console.log(matchDateArrayFormatted)
       return bracket;
   })
-  console.log(bracketData);
+  await axios.post('http://localhost:3333/tournament', bracketData);
   await browser.close();
-})();
+});
 
 const lojinha = (async () => {
-    console.log("ALOOOOOO")
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
     
     await page.goto('https://streamelements.com/gaules/store');
     const storeData = await page.evaluate(() => {
-        console.log("ALOOO");
+
         const nodeList = document.querySelectorAll('md-card.stream-store-list-item');
         const itemArray = [...nodeList];
         const itensArray = [];
@@ -520,9 +518,12 @@ const lojinha = (async () => {
           console.log(notRepeatedArray);
         return notRepeatedArray;
     })
-    console.log(storeData);
+
     await axios.post('http://localhost:3333/itenslojinha', {itens: storeData});
     await browser.close();
 });
 
-module.exports = lojinha;
+module.exports = {
+    lojinha,
+    tournament
+};
