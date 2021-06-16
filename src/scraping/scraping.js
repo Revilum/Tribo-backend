@@ -3,9 +3,8 @@ const { default: axios } = require('axios');
 
 const tournament = (async () => {
 
-    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox'] });
+    const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
-
     await page.goto('https://www.hltv.org/events/5219/iem-summer-2021');
     const bracketData = await page.evaluate(() => {
         const nodeList = document.querySelectorAll('span.team-name.text-ellipsis');
@@ -15,8 +14,6 @@ const tournament = (async () => {
         const groupList = document.querySelectorAll('div.slotted-bracket-header span');
         const rankList = document.querySelectorAll('div.event-world-rank');
         const matchDateList = document.querySelectorAll('div.slots div.slot-wrapper');
-        const raw_data = document.querySelectorAll('div.slotted-bracket-placeholder').getAttribute("data-slotted-bracket-json")
-        console.log(raw_data)
         //Transforming List of HTML elements in array
         const groupArray = [...groupList];
         const rankArray = [...rankList];
@@ -487,8 +484,8 @@ const tournament = (async () => {
         console.log(matchDateArrayFormatted)
         return bracket;
     })
-    // await axios.post('http://localhost:3333/tournament', bracketData);
-    // await browser.close();
+    await axios.post('http://localhost:3333/tournament', bracketData);
+    await browser.close();
 });
 
 const lojinha = (async () => {
