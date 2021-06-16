@@ -6,7 +6,7 @@ const tournament = (async () => {
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
     await page.goto('https://www.hltv.org/events/5219/iem-summer-2021');
-    await page.evaluate(() => {
+    const bracketData = await page.evaluate(() => {
         const nodeList = document.querySelectorAll('span.team-name.text-ellipsis');
         const resultList = document.querySelectorAll('div.rounds div.team');
         const prizeNameList = document.querySelectorAll('div.placement div.team');
@@ -479,6 +479,7 @@ const tournament = (async () => {
 
         return bracket;
     })
+    console.log(bracketData)
     await axios.post('http://localhost:3333/tournament', bracketData);
     await browser.close();
 });
