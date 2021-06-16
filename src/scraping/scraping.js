@@ -479,8 +479,8 @@ const tournament = (async () => {
 
         return bracket;
     })
-    //await axios.post('http://localhost:3333/tournament', bracketData);
-    //await browser.close();
+    await axios.post('http://localhost:3333/tournament', bracketData);
+    await browser.close();
 });
 
 const lojinha = (async () => {
