@@ -6,11 +6,11 @@ const tournament = (async () => {
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
     await page.goto('https://www.hltv.org/events/5219/iem-summer-2021');
-    const bracketData = await page.evaluate(() => {
+    await page.evaluate(() => {
         const nodeList = document.querySelectorAll('span.team-name.text-ellipsis');
         const resultList = document.querySelectorAll('div.rounds div.team');
         const prizeNameList = document.querySelectorAll('div.placement div.team');
-        const lineupList = document.querySelectorAll('div.lineup-box');
+        const lineupList = document.querySelectorAll('div.standard-box.team-box.supports-hover');
         const groupList = document.querySelectorAll('div.slotted-bracket-header span');
         const rankList = document.querySelectorAll('div.event-world-rank');
         const matchDateList = document.querySelectorAll('div.slots div.slot-wrapper');
@@ -40,32 +40,28 @@ const tournament = (async () => {
         matchDateArray.forEach((item, index) => {
             if (matchDateClass[index] !== 'match') {
                 return matchDateArrayFormatted.push({
-                    time: item.firstElementChild.firstElementChild.innerText,
-                    day: item.firstElementChild.firstElementChild.nextElementSibling.innerText,
-                    bo: item.firstElementChild.lastChild.innerText,
+                    time: item.querySelector('span.bold.time-time').outerText,
+                    day: item.querySelector('span.hide-collapsed.time-day-of-week.text-ellipsis').outerText,
+                    bo: item.querySelector('span.hide-collapsed.best-of-x').outerText,
                 })
             } else return matchDateArrayFormatted.push({
                 day: 'played',
             })
 
         })
-
         //Teams Info Screen Data
         lineupArray.forEach((item, index) => {
             const player = item.querySelectorAll('.flag-align');
-            const player1 = [...player];
-            const name = item.firstElementChild.firstElementChild.getAttribute('title');
+            const name = item.querySelector('div.text').outerText;
+            const players =  [];
+            player.forEach(player => {
+                players.push(player.querySelector('a').outerText);
+            })
             return lineupArrayFormatted.push({
                 name,
                 picname: name.toLowerCase().replace(' ', '-'),
                 rank: rankArray[index].outerText,
-                players: [
-                    player1[0].firstChild.nextSibling.innerHTML,
-                    player1[1].firstChild.nextSibling.innerHTML,
-                    player1[2].firstChild.nextSibling.innerHTML,
-                    player1[3].firstChild.nextSibling.innerHTML,
-                    player1[4].firstChild.nextSibling.innerHTML
-                ]
+                players,
             })
         });
 
@@ -481,11 +477,10 @@ const tournament = (async () => {
             }
         }
 
-        console.log(matchDateArrayFormatted)
         return bracket;
     })
-    await axios.post('http://localhost:3333/tournament', bracketData);
-    await browser.close();
+    //await axios.post('http://localhost:3333/tournament', bracketData);
+    //await browser.close();
 });
 
 const lojinha = (async () => {
@@ -519,7 +514,6 @@ const lojinha = (async () => {
                 return acc;
             }
         }, []);
-        console.log(notRepeatedArray);
         return notRepeatedArray;
     })
 

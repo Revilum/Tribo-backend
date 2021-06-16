@@ -25,4 +25,10 @@ routes.post('/tournament',async (request, response) => {
     return response.json({ message: "Lojinha Atualizada com sucesso!!!"});
 });
 
+routes.get('/tournament',async (request, response) => {
+    const tournament = await Tournament.find({});
+    return response.json({tournament});
+});
+
+
 module.exports = routes;
