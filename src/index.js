@@ -6,7 +6,7 @@ const { tournament } = require('./scraping/scraping');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://triboapp:triboapp@tribocluster.prm7f.mongodb.net/tribo?retryWrites=true&w=majority', {
+mongoose.connect('<insdert connection string here>', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
